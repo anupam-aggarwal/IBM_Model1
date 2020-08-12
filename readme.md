@@ -1,4 +1,4 @@
-This repository contains python implementation of IBM Model1 for stastical machine translation.
+This repository contains python implementation of IBM Model1 for statistical machine translation.
 
 
 Steps to Run:
